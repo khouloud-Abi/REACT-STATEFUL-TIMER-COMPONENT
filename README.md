@@ -1,2 +1,0 @@
-# REACT-STATEFUL-TIMER-COMPONENT
-Created with CodeSandbox

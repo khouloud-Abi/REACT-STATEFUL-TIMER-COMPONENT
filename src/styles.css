@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 50px;
+  margin-top: 14px;
+}
+
+.Timer-unity {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -75px;
+  margin-left: 10px;
+  width: 210px;
+  color: rgb(187, 176, 176);
+}
+
+.Timer {
+  border: 1px solid black;
+  width: 230px;
+  margin: 10px;
+}
